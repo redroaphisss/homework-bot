@@ -8,7 +8,6 @@ ANTHROPIC_AUTH_TOKEN=YOUR_API_KEY
 ANTHROPIC_MODEL=YOUR_MODEL
 ```
 
-确保 `.env` 已添加到 `.gitignore` 中（避免泄露密钥）
 
 ## 开始使用
 
@@ -29,3 +28,4 @@ uv run python your_script.py
 - matplotlib
 - PyPDF2
 - openpyxl
+- python-docx
