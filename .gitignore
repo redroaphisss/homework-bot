@@ -4,6 +4,8 @@
 # Homework files
 homework/*.*
 outputs/*.*
+outputs/*/*.*
+
 scripts/*.*
 templates/*.*
 
