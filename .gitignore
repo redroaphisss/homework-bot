@@ -2,10 +2,10 @@
 .devcontainer/
 
 # Homework files
-homework/*
-outputs/*
-scripts/*
-templates/*
+homework/*.*
+outputs/*.*
+scripts/*.*
+templates/*.*
 
 # Environment variables
 .env
